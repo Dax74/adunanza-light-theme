@@ -1,4 +1,24 @@
 /*THIS IS AN OLD CUSTOMIZATION THAT NEED A LOT WORK FOR THE REVIEW!!!*/
+/*=============================
+===============================
+===============================*/
+
+//COLORS SCHEME
+
+$primary: #222222;  
+$secondary: #c6c6ff;
+$tertiary: #0088cc;
+$quaternary: #ff6c00;
+$header_background: #ff6c00;
+$header_primary: #ffffff;
+$highlight: #ffb34d;
+$danger: #e12d02;
+$success: #009900;
+$love: #ff6c00;
+
+//OTHER COLORS
+
+$hover
 
 
 
