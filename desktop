@@ -1,4 +1,4 @@
-/*THIS IS AN OLD CUSTOMIZATION THAT NEED A LOT WORK FOR THE REVIEW!!!*/
+/*THIS IS AN OLD CUSTOMIZATION THAT NEED A LOT OF WORK FOR THE REVIEW!!!*/
 /*=============================
 ===============================
 ===============================*/
@@ -7,8 +7,8 @@
 
 $primary: #222222;  
 $secondary: #c6c6ff;
-$tertiary: #0088cc;
-$quaternary: #ff6c00;
+$tertiary: #0088cc;          //else hover_blue, hover_tag
+$quaternary: #ff6c00;        //else active_orange
 $header_background: #ff6c00;
 $header_primary: #ffffff;
 $highlight: #ffb34d;
@@ -18,9 +18,11 @@ $love: #ff6c00;
 
 //OTHER COLORS
 
-$hover
-
-
+$hover_orange: #fE8b00;
+$color_tag: #225b77;
+$alternate_list: #d3d3ff;
+$quote_back: #bfbfbf
+$quote_title:
 
 /*POSTS WIDTH AND SHADOW*/
 
@@ -111,7 +113,6 @@ blockquote {
 }
 aside.quote .title {
     border-left: 5px solid #BFBFBF;
-    background-color: #BFBFBF;
     color: #646464;
     padding: 12px 12px 1px;
     -moz-user-select: none;
